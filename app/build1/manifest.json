@@ -1,0 +1,654 @@
+{
+  "packages": {
+    "/": {
+      "dest": {
+        "dir": "./build",
+        "id": "/",
+        "name": "my-react-app",
+        "version": "1.0.0"
+      },
+      "modules": {
+        "AddUserForm.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "App.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "BlogPostings.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "DocumentsMedia.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "HomePage.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "KnowledgeBase.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "index.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "request.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "site.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": ".",
+        "id": "/",
+        "name": "my-react-app",
+        "version": "1.0.0"
+      }
+    },
+    "@clayui/alert@3.70.1": {
+      "dest": {
+        "dir": "./build/node_modules/@my-react-app$clayui%2Falert@3.70.1",
+        "id": "@my-react-app$clayui/alert@3.70.1",
+        "name": "@my-react-app$clayui/alert",
+        "version": "3.70.1"
+      },
+      "modules": {
+        "lib/Footer.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/ToastContainer.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/@clayui/alert",
+        "id": "@clayui/alert@3.70.1",
+        "name": "@clayui/alert",
+        "version": "3.70.1"
+      }
+    },
+    "@clayui/button@3.73.0": {
+      "dest": {
+        "dir": "./build/node_modules/@my-react-app$clayui%2Fbutton@3.73.0",
+        "id": "@my-react-app$clayui/button@3.73.0",
+        "name": "@my-react-app$clayui/button",
+        "version": "3.73.0"
+      },
+      "modules": {
+        "lib/Button.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/ButtonWithIcon.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Group.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/@clayui/form/node_modules/@clayui/button",
+        "id": "@clayui/button@3.73.0",
+        "name": "@clayui/button",
+        "version": "3.73.0"
+      }
+    },
+    "@clayui/css@3.74.0": {
+      "dest": {
+        "dir": "./build/node_modules/@my-react-app$clayui%2Fcss@3.74.0",
+        "id": "@my-react-app$clayui/css@3.74.0",
+        "name": "@my-react-app$clayui/css",
+        "version": "3.74.0"
+      },
+      "modules": {
+        "lib/js/bootstrap.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "src/js/bootstrap.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/@clayui/css",
+        "id": "@clayui/css@3.74.0",
+        "name": "@clayui/css",
+        "version": "3.74.0"
+      }
+    },
+    "@clayui/form@3.74.0": {
+      "dest": {
+        "dir": "./build/node_modules/@my-react-app$clayui%2Fform@3.74.0",
+        "id": "@my-react-app$clayui/form@3.74.0",
+        "name": "@my-react-app$clayui/form",
+        "version": "3.74.0"
+      },
+      "modules": {
+        "lib/Checkbox.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/DualListBox.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Form.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Input.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Radio.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/RadioGroup.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Select.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/SelectBox.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/SelectWithOption.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Toggle.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/@clayui/form",
+        "id": "@clayui/form@3.74.0",
+        "name": "@clayui/form",
+        "version": "3.74.0"
+      }
+    },
+    "@clayui/icon@3.56.0": {
+      "dest": {
+        "dir": "./build/node_modules/@my-react-app$clayui%2Ficon@3.56.0",
+        "id": "@my-react-app$clayui/icon@3.56.0",
+        "name": "@my-react-app$clayui/icon",
+        "version": "3.56.0"
+      },
+      "modules": {
+        "lib/index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/@clayui/form/node_modules/@clayui/icon",
+        "id": "@clayui/icon@3.56.0",
+        "name": "@clayui/icon",
+        "version": "3.56.0"
+      }
+    },
+    "@clayui/layout@3.65.1": {
+      "dest": {
+        "dir": "./build/node_modules/@my-react-app$clayui%2Flayout@3.65.1",
+        "id": "@my-react-app$clayui/layout@3.65.1",
+        "name": "@my-react-app$clayui/layout",
+        "version": "3.65.1"
+      },
+      "modules": {
+        "lib/Col.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Container.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/ContainerFluid.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Content.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Row.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Sheet.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/@clayui/alert/node_modules/@clayui/layout",
+        "id": "@clayui/layout@3.65.1",
+        "name": "@clayui/layout",
+        "version": "3.65.1"
+      }
+    },
+    "@clayui/link@3.56.0": {
+      "dest": {
+        "dir": "./build/node_modules/@my-react-app$clayui%2Flink@3.56.0",
+        "id": "@my-react-app$clayui/link@3.56.0",
+        "name": "@my-react-app$clayui/link",
+        "version": "3.56.0"
+      },
+      "modules": {
+        "lib/Context.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/@clayui/form/node_modules/@clayui/shared/node_modules/@clayui/link",
+        "id": "@clayui/link@3.56.0",
+        "name": "@clayui/link",
+        "version": "3.56.0"
+      }
+    },
+    "@clayui/provider@3.71.0": {
+      "dest": {
+        "dir": "./build/node_modules/@my-react-app$clayui%2Fprovider@3.71.0",
+        "id": "@my-react-app$clayui/provider@3.71.0",
+        "name": "@my-react-app$clayui/provider",
+        "version": "3.71.0"
+      },
+      "modules": {
+        "lib/DataClient.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/LRUCache.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Provider.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/@clayui/form/node_modules/@clayui/shared/node_modules/@clayui/provider",
+        "id": "@clayui/provider@3.71.0",
+        "name": "@clayui/provider",
+        "version": "3.71.0"
+      }
+    },
+    "@clayui/shared@3.73.0": {
+      "dest": {
+        "dir": "./build/node_modules/@my-react-app$clayui%2Fshared@3.73.0",
+        "id": "@my-react-app$clayui/shared@3.73.0",
+        "name": "@my-react-app$clayui/shared",
+        "version": "3.73.0"
+      },
+      "modules": {
+        "lib/FocusScope.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Keys.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/LinkOrButton.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/MouseSafeArea.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/Portal.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/delegate.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/doAlign.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/getEllipsisItems.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/index.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/observeRect.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/setElementFullHeight.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/sub.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/useDebounce.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/useFocusManagement.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/useInternalState.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "lib/useMousePosition.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/@clayui/form/node_modules/@clayui/shared",
+        "id": "@clayui/shared@3.73.0",
+        "name": "@clayui/shared",
+        "version": "3.73.0"
+      }
+    },
+    "classnames@2.3.2": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$classnames@2.3.2",
+        "id": "my-react-app$classnames@2.3.2",
+        "name": "my-react-app$classnames",
+        "version": "2.3.2"
+      },
+      "src": {
+        "dir": "./node_modules/classnames",
+        "id": "classnames@2.3.2",
+        "name": "classnames",
+        "version": "2.3.2"
+      }
+    },
+    "dom-align@1.12.3": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$dom-align@1.12.3",
+        "id": "my-react-app$dom-align@1.12.3",
+        "name": "my-react-app$dom-align",
+        "version": "1.12.3"
+      },
+      "modules": {
+        "dist-node/index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/dom-align",
+        "id": "dom-align@1.12.3",
+        "name": "dom-align",
+        "version": "1.12.3"
+      }
+    },
+    "js-tokens@4.0.0": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$js-tokens@4.0.0",
+        "id": "my-react-app$js-tokens@4.0.0",
+        "name": "my-react-app$js-tokens",
+        "version": "4.0.0"
+      },
+      "modules": {
+        "index.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/js-tokens",
+        "id": "js-tokens@4.0.0",
+        "name": "js-tokens",
+        "version": "4.0.0"
+      }
+    },
+    "loose-envify@1.4.0": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$loose-envify@1.4.0",
+        "id": "my-react-app$loose-envify@1.4.0",
+        "name": "my-react-app$loose-envify",
+        "version": "1.4.0"
+      },
+      "src": {
+        "dir": "./node_modules/loose-envify",
+        "id": "loose-envify@1.4.0",
+        "name": "loose-envify",
+        "version": "1.4.0"
+      }
+    },
+    "object-assign@4.1.1": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$object-assign@4.1.1",
+        "id": "my-react-app$object-assign@4.1.1",
+        "name": "my-react-app$object-assign",
+        "version": "4.1.1"
+      },
+      "src": {
+        "dir": "./node_modules/object-assign",
+        "id": "object-assign@4.1.1",
+        "name": "object-assign",
+        "version": "4.1.1"
+      }
+    },
+    "prop-types@15.8.1": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$prop-types@15.8.1",
+        "id": "my-react-app$prop-types@15.8.1",
+        "name": "my-react-app$prop-types",
+        "version": "15.8.1"
+      },
+      "src": {
+        "dir": "./node_modules/prop-types",
+        "id": "prop-types@15.8.1",
+        "name": "prop-types",
+        "version": "15.8.1"
+      }
+    },
+    "react-dom@16.8.6": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$react-dom@16.8.6",
+        "id": "my-react-app$react-dom@16.8.6",
+        "name": "my-react-app$react-dom",
+        "version": "16.8.6"
+      },
+      "src": {
+        "dir": "./node_modules/react-dom",
+        "id": "react-dom@16.8.6",
+        "name": "react-dom",
+        "version": "16.8.6"
+      }
+    },
+    "react-is@16.13.1": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$react-is@16.13.1",
+        "id": "my-react-app$react-is@16.13.1",
+        "name": "my-react-app$react-is",
+        "version": "16.13.1"
+      },
+      "src": {
+        "dir": "./node_modules/react-is",
+        "id": "react-is@16.13.1",
+        "name": "react-is",
+        "version": "16.13.1"
+      }
+    },
+    "react@16.8.6": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$react@16.8.6",
+        "id": "my-react-app$react@16.8.6",
+        "name": "my-react-app$react",
+        "version": "16.8.6"
+      },
+      "src": {
+        "dir": "./node_modules/react",
+        "id": "react@16.8.6",
+        "name": "react",
+        "version": "16.8.6"
+      }
+    },
+    "scheduler@0.13.6": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$scheduler@0.13.6",
+        "id": "my-react-app$scheduler@0.13.6",
+        "name": "my-react-app$scheduler",
+        "version": "0.13.6"
+      },
+      "modules": {
+        "cjs/scheduler-tracing.development.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "cjs/scheduler-tracing.production.min.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "cjs/scheduler-tracing.profiling.min.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "cjs/scheduler.development.js": {
+          "flags": {
+            "esModule": true
+          }
+        },
+        "cjs/scheduler.production.min.js": {
+          "flags": {
+            "esModule": true
+          }
+        }
+      },
+      "src": {
+        "dir": "./node_modules/scheduler",
+        "id": "scheduler@0.13.6",
+        "name": "scheduler",
+        "version": "0.13.6"
+      }
+    },
+    "warning@4.0.3": {
+      "dest": {
+        "dir": "./build/node_modules/my-react-app$warning@4.0.3",
+        "id": "my-react-app$warning@4.0.3",
+        "name": "my-react-app$warning",
+        "version": "4.0.3"
+      },
+      "src": {
+        "dir": "./node_modules/warning",
+        "id": "warning@4.0.3",
+        "name": "warning",
+        "version": "4.0.3"
+      }
+    }
+  }
+}
